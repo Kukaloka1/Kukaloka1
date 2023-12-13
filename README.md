@@ -7,8 +7,8 @@ About Me
 🧠 Creative Problem Solver: Believing firmly in the transformative power of creativity, my aim is to convert complex ideas into elegant, user-friendly solutions.
 🌐 Full Stack Developer: I love both sides of the moon, design UX/UX frontend and backend development, I use technologies like React and Python to bring quality and efficiency to my projects, aligning with global standards of software engineering.
 
-My Venture: Bittech Network
-Bittech Network: A vibrant startup where we are committed to crafting enjoyable technology experiences. Our focus lies in harnessing the power of AI to create products that are not just tools, but also sources of fun and innovation.
+My Venture:
+Bittech Network: A vibrant little hub running by my self and AI where we are committed to crafting enjoyable technology experiences. Our focus lies in harnessing the power of AI to create products that are not just tools, but also sources of fun and innovation.
 
 Skills and Technologies
 Languages: JavaScript, Python, HTML, CSS.
