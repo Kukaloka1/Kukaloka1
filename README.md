@@ -3,7 +3,7 @@ Hello, I'm Antonio Fernández Ríos 👋
 🌟 Welcome to my technological corner on GitHub. As the driving force behind Bittech Network, I am passionate about creating fun, innovative solutions leveraging a multitude of technologies, including Artificial Intelligence.
 
 About Me
-🚀 Technology Leader & Innovator: At the heart of Bittech Network, I dedicate myself to pioneering technology solutions that are not only advanced but also engaging and enjoyable.
+🚀 I dedicate myself to play with technology and try to create solutions that are not only advanced but also engaging and enjoyable for everybody.
 🧠 Creative Problem Solver: Believing firmly in the transformative power of creativity, my aim is to convert complex ideas into elegant, user-friendly solutions.
 🌐 Full Stack Developer: I love both sides of the moon, design UX/UX frontend and backend development, I use technologies like React and Python to bring quality and efficiency to my projects, aligning with global standards of software engineering.
 
