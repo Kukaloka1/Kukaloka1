@@ -1,6 +1,6 @@
 Hello, I'm Antonio Fernández Ríos 👋
 
-🌟 Welcome to my technological corner on GitHub. As the driving force behind the startup Bittech Network, I am passionate about creating fun, innovative solutions leveraging a multitude of technologies, including Artificial Intelligence.
+🌟 Welcome to my technological corner on GitHub. As the driving force behind Bittech Network, I am passionate about creating fun, innovative solutions leveraging a multitude of technologies, including Artificial Intelligence.
 
 About Me
 🚀 Technology Leader & Innovator: At the heart of Bittech Network, I dedicate myself to pioneering technology solutions that are not only advanced but also engaging and enjoyable.
