@@ -22,7 +22,7 @@ Contact:
 
 💎 Welcome Investors: Yes, my plan is to turn Bittech Network into a startup. we are moving forward.
 
-📫 Contact: Connect with me on LinkedIn or email me at networkbittech.com. www.bittechnetwork.com
+📫 Contact: Connect with me on LinkedIn or email me at networkbittech@gmail.com. www.bittechnetwork.com
 
 
 ![bit logo](https://github.com/Kukaloka1/Kukaloka1/assets/130247025/a127acb3-5baf-48c3-b9e1-4f5158c8fd2b)
