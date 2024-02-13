@@ -1,10 +1,10 @@
 Hello, I’m Antonio Fernández Ríos 👋
 
-I’m a technology enthusiast coming from a background in music, arts, and finance, now diving into programming.
+Technology enthusiast coming from a background in music, arts, and finance, now diving into programming.
 
-🌟 I’m crazy about the idea of about create fun and innovative solutions using a wide range of technologies, including Artificial Intelligence.
+🌟 I’m crazy about the idea of create fun and innovative solutions using a wide range of technologies, including Artificial Intelligence.
 
-🚀 At the moment, I’m dedicating myself to conducting labs, studying designs, products, and AI. I plan to launch my products through Bittech Network, focusing on creating solutions that are not only advanced but also engaging and enjoyable for everyone.
+🚀 At the moment, I’m dedicating myself to conducting AI labs, studying designs, product management and concept development. I plan to launch my products through Bittech Network, focusing on creating solutions that are not only advanced but also engaging and enjoyable for everyone.
 
 🧠 I firmly believe in the transformative power of creativity, aiming to turn complex ideas into elegant, user-friendly solutions.
 
@@ -20,7 +20,7 @@ Contact:
 
 🤝 Collaborations: i would love to hear from you. 
 
-💎 Welcome Investors: Yes, my plan is to turn Bittech Network into a startup. It’s already happening.
+💎 Welcome Investors: Yes, my plan is to turn Bittech Network into a startup. we are moving forward.
 
 📫 Contact: Connect with me on LinkedIn or email me at networkbittech.com. www.bittechnetwork.com
 
