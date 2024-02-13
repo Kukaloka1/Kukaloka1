@@ -4,7 +4,7 @@ Technology enthusiast coming from a background in music, arts, and finance, now 
 
 🌟 I’m crazy about the idea of create fun and innovative solutions using a wide range of technologies, including Artificial Intelligence.
 
-🚀 At the moment, I’m dedicating myself to conducting AI labs, studying designs, product management and concept development. I plan to launch my products through Bittech Network, focusing on creating solutions that are not only advanced but also engaging and enjoyable for everyone.
+🛸 At the moment, I’m dedicating myself to conducting AI labs, studying designs, product management and concept development. I plan to launch my products through Bittech Network, focusing on creating solutions that are not only advanced but also engaging and enjoyable for everyone.
 
 🧠 I firmly believe in the transformative power of creativity, aiming to turn complex ideas into elegant, user-friendly solutions.
 
@@ -12,7 +12,7 @@ Technology enthusiast coming from a background in music, arts, and finance, now 
 
 My Venture:
 
-Bittech Network: A vibrant little hub run by myself and AI (for now), where we are committed to crafting enjoyable technology experiences. Our focus is on leveraging the power of AI to create products that are not just tools, but also sources of fun, education and innovation.
+🚀 Bittech Network: A vibrant little hub run by myself and AI (for now), where we are committed to crafting enjoyable technology experiences. Our focus is on leveraging the power of AI to create products that are not just tools, but also sources of fun, education and innovation.
 
 Art-Tech-AI = Bittech Network 💾
 
