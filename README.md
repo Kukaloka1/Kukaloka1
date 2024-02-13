@@ -2,7 +2,7 @@ Hello, I’m Antonio Fernández Ríos 👋
 
 I’m a technology enthusiast coming from a background in music, arts, and finance, now diving into programming.
 
-🌟 I’m passionate about creating fun and innovative solutions using a wide range of technologies, including Artificial Intelligence.
+🌟 I’m crazy about the idea of about create fun and innovative solutions using a wide range of technologies, including Artificial Intelligence.
 
 🚀 At the moment, I’m dedicating myself to conducting labs, studying designs, products, and AI. I plan to launch my products through Bittech Network, focusing on creating solutions that are not only advanced but also engaging and enjoyable for everyone.
 
