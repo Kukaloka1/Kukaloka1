@@ -18,7 +18,7 @@ Art-Tech-AI = Bittech Network 💾
 
 proyects on development:
 
-🌠 Mystichat.ai (Launching the new version on February 15)
+🌠 Mystichat.ai (Launching the new version on February)
 
 introduces an unprecedented journey of self-discovery with generative AI tarot readings and self-growth tools. By harnessing the combined power of GPT-4 and DALL·E-3, we offer an amazing exploration experience that delves deep into the realms of inner exploration. Get ready for transformative insights and guidance.
 
