@@ -6,8 +6,6 @@ Technology enthusiast coming from a background in music, arts, and finance, now 
 
 🛸 At the moment, I’m dedicating myself to conducting AI labs, studying designs, product management and concept development. I plan to launch my products through Bittech Network, focusing on creating solutions that are not only advanced but also engaging and enjoyable for everyone.
 
-🧠 I firmly believe in the transformative power of creativity, aiming to turn complex ideas into elegant, user-friendly solutions.
-
 🌐 Full Stack Developer: I love both sides of the Cassette, design, UX/UI, frontend and backend.
 
 My Venture:
