@@ -20,13 +20,13 @@ proyects on development:
 
 introduces an unprecedented journey of self-discovery with generative AI tarot readings and self-growth tools. By harnessing the combined power of GPT-4 and DALL·E-3, we offer an amazing exploration experience that delves deep into the realms of inner exploration. Get ready for transformative insights and guidance.
 
-🎆 Prismafy.ai (Launching this summer)
+🎆 BlockBuddies.ai
 
-is poised to revolutionize the educational landscape as a comprehensive AI-driven platform. Designed to be the ultimate companion for students, our platform aims to empower learning with personalized, interactive tools. Stay tuned for an education that adapts to you, making learning more effective and engaging than ever before.
+Bitcoin Meets AI: Revolutionizing Crypto Market Predictions!
 
-🏙️ Akihabara.ai (Launching this fall)
+Are you looking for serious predictions based on extensive data and live prices? Our AI provides precise summaries to keep you ahead of the game.
 
-is set to be an exhilarating platform that merges AI with the vibrant culture of Tokyo’s Electric Town. This unique blend offers an engaging way to explore and connect with one of Tokyo’s most iconic districts. Prepare to immerse yourself in an entertaining journey where technology meets tradition.
+Follow us exclusively on X for amazing reports every 2 hours!
 
 Contact:
 
