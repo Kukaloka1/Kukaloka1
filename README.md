@@ -3,7 +3,7 @@ From music & arts to AI, Web3 & Blockchain
 
 ---
 
-## 🌟 About Me  
+##  About Me  
 
 👋 Hello! I’m Antonio Fernández Ríos, a **full-stack developer, entrepreneur and tech lover** blending **AI, blockchain, and creative tech** to build **innovative, fun, and engaging** digital experiences.  
 
@@ -13,7 +13,7 @@ From music & arts to AI, Web3 & Blockchain
 
 ---
 
-## 🏆 Current Projects  
+##  Current Projects  
 
 ### 🔮 **MysticChat.ai** – AI Tarot & Self-Discovery  
 🚀 **[Live Now!](https://www.mystichat.ai/)** | **New Version Launched!**  
@@ -36,7 +36,7 @@ From music & arts to AI, Web3 & Blockchain
 
 ---
 
-### 📊 **BlockBuddies.ai** – **Bitcoin Meets AI**  
+### **BlockBuddies.ai** – **Bitcoin Meets AI**  
 **AI-Powered Crypto Market Predictions**  
 
 🔎 **Real-Time Analysis** | 📈 **Live Price Summaries** | 🚀 **Predictions Every 2 Hours**  
