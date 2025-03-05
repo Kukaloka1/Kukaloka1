@@ -31,7 +31,8 @@ From music & arts to AI, Web3 & Blockchain
 
 ⚡ **Beat the Bots – Smash the Pumps!**  
 💰 **Buy memecoins before the crowd**  
-⏳ **100X Pumps Await You!**  
+⏳ **100X Pumps Await You!**
+🔥 **Launching Now!** 
 
 ---
 
