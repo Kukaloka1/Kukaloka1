@@ -1,11 +1,11 @@
-# 🚀 Antonio Fernández Ríos  
-🎸 From music & arts to AI, Web3 & Blockchain  
+# Antonio Fernández Ríos  
+  From music & arts to AI, Web3 & Blockchain  
 
 ---
 
 ## 🌟 About Me  
 
-👋 Hello! I’m Antonio Fernández Ríos, a **full-stack developer & entrepreneur and tech lover** blending **AI, blockchain, and creative tech** to build **innovative, fun, and engaging** digital experiences.  
+👋 Hello! I’m Antonio Fernández Ríos, a **full-stack developer, entrepreneur and tech lover** blending **AI, blockchain, and creative tech** to build **innovative, fun, and engaging** digital experiences.  
 
 🔮 **From Music & Arts to Tech** — My background in music, finance, and design fuels my passion for building products that mix **creativity & technology**.  
 
@@ -40,8 +40,9 @@
 
 🔎 **Real-Time Analysis** | 📈 **Live Price Summaries** | 🚀 **Predictions Every 2 Hours**  
 
-📢 **Follow us exclusively on X for top-tier insights!**  
+📢 **Follow us exclusively on X for top-tier insights!**  **@blockbuddies1**  
 
+Full webapp launch this Summer
 ---
 
 ## 🌐 Bittech Network – AI x Web3 Innovation Hub  
