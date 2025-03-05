@@ -1,4 +1,13 @@
-# Antonio Fernández Ríos  
+# <p align="center">
+  <span style="background: linear-gradient(90deg, #7b2ff7, #d726ff); 
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-weight: bold;
+               font-size: 42px;">
+    Antonio Fernández Ríos
+  </span>
+</p>
+ 
   From music & arts to AI, Web3 & Blockchain  
 
 ---
