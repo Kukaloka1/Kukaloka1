@@ -16,7 +16,7 @@ From music & arts to AI, Web3 & Blockchain
 ##  Current Projects  
 
 ###  **WAGR** – TERMINAL 
- **(https://www.wagr.lol/)** | **Launch Soon!**  
+ ** https://www.wagr.lol ** | **Launch Soon!**  
 
 **>WAGR turns social friction into liquid markets inside Telegram.. 
 Create a market in seconds. Back your take with real TON, watch pools move in real time, and settle outcomes transparently**  
