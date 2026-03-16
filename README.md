@@ -15,38 +15,17 @@ From music & arts to AI, Web3 & Blockchain
 
 ##  Current Projects  
 
-### 🔮 **MysticChat.ai** – AI Tarot & Self-Discovery  
-🚀 **[Live Now!](https://www.mystichat.ai/)** | **New Version Launched!**  
+###  **Wagr** – AI Tarot & Self-Discovery  
+🚀 **(https://www.wagr.lol/)** | **Launch Soon!**  
 
-🔮 **Generative AI Tarot Readings**  
-✨ **Self-Growth & Insightful Exploration**  
-🤖 **Powered by Bitcoin and Lightning**  
+**>WAGR turns social friction into liquid markets inside Telegram.. 
+Create a market in seconds. Back your take with real TON, watch pools move in real time, and settle outcomes transparently**  
 
-> **Unprecedented journey into self-discovery.** Get transformative insights & guidance!  
+> **""Social friction is the world’s most mispriced asset.. WAGR is the protocol that lets you trade it.""
 
----
 
-### 🏴‍☠️ **CryptoMetal.fun** – **Front-Run Memecoins Like a Rockstar!**  
-🔥 **[LIVE ON MAINNET](https://www.cryptometal.fun/)**  
 
-⚡ **Beat the Bots – Smash the Pumps!**  
-💰 **Buy memecoins before the crowd**  
-⏳ **100X Pumps Await You!**
-🔥 **Launching Now!** 
-
----
-
-### **BlockBuddies.ai** – **Bitcoin Meets AI**  
-**AI-Powered Crypto Market Predictions**  
-
-🔎 **Real-Time Analysis** | 📈 **Live Price Summaries** | 🚀 **Predictions Every 2 Hours**  
-
-📢 **Follow us exclusively on X for top-tier insights!**  **@blockbuddies1**  
-
-Full webapp launch this Summer
----
-
-## 🌐 Bittech Network – AI x Web3 Innovation Hub  
+## 🌐 Bittech Network – Tech Product solutions  
 
 🚀 **Bittech Network** is my **personal tech hub** where I build **AI-powered apps, Web3 solutions, and experimental projects** Tech is Fun, Fun is Good.  
 
