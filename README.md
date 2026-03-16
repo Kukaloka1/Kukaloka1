@@ -5,9 +5,9 @@ From music & arts to AI, Web3 & Blockchain
 
 ##  About Me  
 
-👋 Hello! I’m Antonio Fernández Ríos, a **full-stack developer, entrepreneur and tech lover** blending **AI, blockchain, and creative tech** to build **innovative, fun, and engaging** digital experiences.  
+👋 Hello! I’m Antonio Fernández Ríos, a **full-stack developer, with a background on finance also, entrepreneur and tech lover** blending **AI, blockchain, and creative tech** to build **innovative, fun, and engaging** digital experiences.  
 
-🔮 **From Music & Arts to Tech** — My background in music, finance, and design fuels my passion for building products that mix **creativity & technology**.  
+ **From Music & Arts to Tech** — My background in music, finance, and design fuels my passion for building products that mix **creativity & technology**.  
 
 💡 Currently, I'm crafting **AI-driven solutions** & Web3 applications at **Bittech Network**, my tech hub focused on **cutting-edge innovation, decentralization, and engaging user experiences**.  
 
@@ -21,7 +21,7 @@ From music & arts to AI, Web3 & Blockchain
 **>WAGR turns social friction into liquid markets inside Telegram.. 
 Create a market in seconds. Back your take with real TON, watch pools move in real time, and settle outcomes transparently**  
 
-> **""Social friction is the world’s most mispriced asset.. WAGR is the protocol that lets you trade it.""
+> **"Social friction is the world’s most mispriced asset.. WAGR is the protocol that lets you trade it."
 
 
 
@@ -29,7 +29,7 @@ Create a market in seconds. Back your take with real TON, watch pools move in re
 
 🚀 **Bittech Network** is my **personal tech hub** where I build **AI-powered apps, Web3 solutions, and experimental projects** Tech is Fun, Fun is Good.  
 
-💾 **Art-Tech-AI = Bittech Network**  
+💾 **-Tech-AI = Bittech Network**  
 🔗 **[Visit Website](https://www.bittechnetwork.com/)**  
 
 ---
