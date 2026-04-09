@@ -1,11 +1,10 @@
 # Antonio Fernández Ríos  
-From music & arts to AI, Web3 & Blockchain  
-
+FullStack Dev focus on Product and Bussines development
 ---
 
 ##  About Me  
 
-👋 Hello! I’m Antonio Fernández Ríos, a **full-stack developer, with a background on finance also, entrepreneur and tech lover** blending **AI, blockchain, and creative tech** to build **innovative, fun, and engaging** digital experiences.  
+Hello! I’m Antonio Fernández Ríos, a **full-stack developer, with a background on finance also, entrepreneur and tech lover** blending **AI, blockchain, and creative tech** to build **innovative, fun, and engaging** digital experiences.  
 
  **From Music & Arts to Tech** — My background in music, finance, and design fuels my passion for building products that mix **creativity & technology**.  
 
