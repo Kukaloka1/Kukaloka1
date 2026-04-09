@@ -16,7 +16,7 @@ Hello! I’m Antonio Fernández Ríos, a **full-stack developer, with a backgrou
 ##  Current Projects  
 
 ###  WAGR – TERMINAL 
- ** https://www.wagr.lol ** | **Launch Soon!**  
+ https://www.wagr.lol  | **Launch April 2026!**  
 
 **>WAGR turns social friction into liquid markets inside Telegram.. 
 Create a market in seconds. Back your take with real TON, watch pools move in real time, and settle outcomes transparently**  
