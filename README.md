@@ -1,51 +1,104 @@
-# Antonio Fernández Ríos  
-FullStack Dev focus on Product and Bussines development
----
+██████╗ ██╗████████╗████████╗███████╗ ██████╗██╗  ██╗
+██╔══██╗██║╚══██╔══╝╚══██╔══╝██╔════╝██╔════╝██║  ██║
+██████╔╝██║   ██║      ██║   █████╗  ██║     ███████║
+██╔══██╗██║   ██║      ██║   ██╔══╝  ██║     ██╔══██║
+██████╔╝██║   ██║      ██║   ███████╗╚██████╗██║  ██║
+╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+ANTONIO FERNÁNDEZ RÍOS — Full-Stack Engineer · Web3 Builder · AI Systems
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+</div>
 
-##  About Me  
+> WHO AM I
+yamlname:        Antonio Fernández Ríos
+alias:       Kukaloka1 / antoine_bit
+location:    Bali, Indonesia 🌴
+company:     Bittech Network — founder & lead engineer
+background:  Finance × Full-Stack × Web3 × AI
+languages:   Spanish (native) · English (business fluent)
+I'm a full-stack developer and tech founder with roots in financial sales and CFD brokerage, turned builder. I design and ship products that sit at the intersection of AI, blockchain, and real user behavior — with a sharp eye for product, economics, and experience.
+I don't just write code. I think in systems, ship in cycles, and build for the long game.
 
-Hello! I’m Antonio Fernández Ríos, a **full-stack developer, with a background on finance also, entrepreneur and tech lover** blending **AI, blockchain, and creative tech** to build **innovative, fun, and engaging** digital experiences.  
+> FLAGSHIP PROJECT
+<div align="center">
+⚡ WAGR — Social Friction is the World's Most Mispriced Asset
+██╗    ██╗ █████╗  ██████╗ ██████╗
+██║    ██║██╔══██╗██╔════╝ ██╔══██╗
+██║ █╗ ██║███████║██║  ███╗██████╔╝
+██║███╗██║██╔══██║██║   ██║██╔══██╗
+╚███╔███╔╝██║  ██║╚██████╔╝██║  ██║
+ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+wagr.lol · Telegram Mini App · TON Blockchain · 🚀 Launching Soon
+</div>
 
- From Music & Arts to Tech — My background in music, finance, and design fuels my passion for building products that mix **creativity & technology**.  
+"WAGR turns social friction into liquid markets inside Telegram. Create a market in seconds. Back your take with real TON, watch pools move in real time, settle outcomes on-chain — transparently."
 
-💡 Currently, I'm crafting **AI-driven solutions** & Web3 applications at **Bittech Network**, my tech hub focused on **cutting-edge innovation, decentralization, and engaging user experiences**.  
+LayerStackFrontendReact · TypeScript · Telegram Mini App SDKBackendPython · Flask · FirebaseChainTON Blockchain · Smart Contracts · On-chain settlementPaymentsReal TON deposits & withdrawals · Mainnet
 
----
+> CURRENT BUILD
+┌─────────────────────────────────────────────────────┐
+│  BITTECH NETWORK — ACTIVE PROJECTS                  │
+├─────────────────────────────────────────────────────┤
+│  🟢  WAGR          Social wagering · TON · mainnet  │
+│  🟡  TonGO         TON API infra for Mini App devs  │
+│  🔵  Bittech.com   Tech studio · AI + Web3 studio   │
+└─────────────────────────────────────────────────────┘
+Bittech Network is my personal tech studio. I build AI-powered apps, Web3 infrastructure, and premium digital products — fast, lean, and focused on real signal before spend.
 
-##  Current Projects  
+> TECH STACK
+<div align="center">
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+</div>
 
-###  WAGR – TERMINAL 
- ** https://www.wagr.lol ** | **Launch Soon!**  
+> GITHUB STATS
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kukaloka1&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=CCFF00&icon_color=00FFFF&text_color=FFFFFF&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kukaloka1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=CCFF00&text_color=FFFFFF&langs_count=6" />
+</div>
+<div align="center">
+Mostrar imagen
+</div>
 
-**>WAGR turns social friction into liquid markets inside Telegram.. 
-Create a market in seconds. Back your take with real TON, watch pools move in real time, and settle outcomes transparently**  
+> BACKGROUND
+10 yrs  ──  Financial sales · CFD & fintech brokerage · client retention
+ 5 yrs  ──  Full-stack development · React · Python · Firebase
+ 3 yrs  ──  Web3 · TON · Solana · Bitcoin Lightning · DeFi tooling
+ 2 yrs  ──  AI systems integration · OpenAI API · product-first approach
+Before shipping Web3 products, I spent nearly a decade inside regulated fintech — account management, client retention, and financial sales for CFD brokers. That background shapes how I think about product economics, user behavior, and what actually converts vs. what looks good on a Figma file.
 
-> **"Social friction is the world’s most mispriced asset.. WAGR is the protocol that lets you trade it."
+> OPEN TO
+
+🤝 Collaborations — AI × Web3 products with real traction potential
+💰 Investment / backing — for WAGR or TonGO infrastructure
+🧠 Consulting — Web3 product strategy, Telegram Mini App builds
+💼 Remote roles — Account Management · Customer Support · Web3 PM
 
 
+> CONNECT
+<div align="center">
+ChannelLink🌐 Studiobittechnetwork.com🎲 Productwagr.lol🐦 X / Twitter@antoine_bit📧 Emailnetworkbittech@gmail.com
+<br/>
 
-## 🌐 Bittech Network – Tech Product solutions  
+"Tech is Fun. Fun is Good."
+— Bittech Network
 
-Bittech Network is my **personal tech hub** where I build **AI-powered apps, Web3 solutions, and experimental projects** Tech is Fun, Fun is Good.  
+<br/>
+Mostrar imagen
+</div>
 
-💾 **-Tech-AI = Bittech Network**  
-🔗 **[Visit Website](https://www.bittechnetwork.com/)**  
-
----
-
-## 💎 Collaboration & Investment Opportunities  
-
-🤝 **Looking for partners, developers & visionaries!**  
-💡 Open to **collaborations, funding & investment opportunities** for **scalable AI & Web3 projects**.  
-
-📩 **Contact Me:**  
-📧 Email: [networkbittech@gmail.com](mailto:networkbittech@gmail.com)  
-🌍 Website: [bittechnetwork.com](https://www.bittechnetwork.com)  
-🐦 Twitter/X: [@antoine_bit](#)   
-
----
-
-### 🚀 Stay Tuned for More!  
-
-![bit logo](https://github.com/Kukaloka1/Kukaloka1/assets/130247025/a127acb3-5baf-48c3-b9e1-4f5158c8fd2b)  
+<div align="center">
+<sub>Built in Bali · Shipped on TON · Powered by obsession</sub>
+</div>
 
