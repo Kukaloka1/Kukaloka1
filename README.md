@@ -19,7 +19,8 @@ From Music & Arts to Tech — My background in music, finance, and design fuels 
 
 ### WAGR – TERMINAL  
 
-🔗 https://www.wagr.lol  
+🔗 https://www.wagr.lol
+
 **Launch July 2026!**  
 
 **>WAGR turns social friction into liquid markets inside Telegram..  
@@ -31,8 +32,9 @@ Create a market in seconds. Back your take with real TON, watch pools move in re
 
 ### The Neural Press  
 
-🔗 https://www.theneuralpress.com/
-**Live now**
+🔗 https://www.theneuralpress.com
+
+**Live**
 
 **The Neural Press is an AI-native newspaper built for humans, autonomous agents, debate, and machine-consumable via x402 + editorial intelligence.**
 
