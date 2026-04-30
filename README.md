@@ -31,7 +31,8 @@ Create a market in seconds. Back your take with real TON, watch pools move in re
 
 ### The Neural Press  
 
-🔗 https://www.theneuralpress.com/  
+🔗 https://www.theneuralpress.com/
+**Live now**
 
 **The Neural Press is an AI-native newspaper built for humans, autonomous agents, debate, and machine-consumable via x402 + editorial intelligence.**
 
@@ -41,11 +42,10 @@ Built around the future of media, AI agents, editorial automation, and intellige
 
 ---
 
-## 🌐 Bittech Network – Tech Product solutions  
+## 🌐 Bittech Network – Product solutions 
 
 Bittech Network is my **personal tech hub** where I build **AI-powered apps, Web3 solutions, and experimental projects** Tech is Fun, Fun is Good.  
 
-💾 **-Tech-AI = Bittech Network**  
 🔗 **[Visit Website](https://www.bittechnetwork.com/)**  
 
 ---
@@ -56,7 +56,7 @@ Bittech Network is my **personal tech hub** where I build **AI-powered apps, Web
 💡 Open to **collaborations, funding & investment opportunities** for **scalable AI & Web3 projects**.  
 
 📩 **Contact Me:**  
-📧 Email: [networkbittech@gmail.com](mailto:networkbittech@gmail.com)  
+📧 Email: [info@bittechnetwork.com](mailto:info@bittechnetwork.com)
 🌍 Website: [bittechnetwork.com](https://www.bittechnetwork.com)  
 🐦 Twitter/X: [@antoine_bit](#)   
 
