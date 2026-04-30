@@ -60,7 +60,7 @@ Bittech Network is my **personal tech hub** where I build **AI-powered apps, Web
 📩 **Contact Me:**  
 📧 Email: [info@bittechnetwork.com](mailto:info@bittechnetwork.com)
 🌍 Website: [bittechnetwork.com](https://www.bittechnetwork.com)  
-🐦 Twitter/X: [@antoine_bit](#)   
+🐦 X: [@antoine_bit](#)   
 
 ---
 
